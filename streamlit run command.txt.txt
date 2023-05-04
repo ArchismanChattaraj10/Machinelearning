@@ -1,0 +1,6 @@
+streamlit run "C:\Users\archi\OneDrive\Desktop\Multipledisease detection system\untitled10.py"
+
+
+C:\Users\archi\OneDrive\Desktop\Multipledisease detection system\diabetes_model.sav
+C:\Users\archi\OneDrive\Desktop\Multipledisease detection system\heart_disease_model.sav
+c
